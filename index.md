@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Let's build a Dream Workstation
 ---
 
+# Choose the right operating system
+# Set up the workspace
+# Start learning
